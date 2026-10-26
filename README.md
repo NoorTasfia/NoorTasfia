@@ -1,14 +1,36 @@
 ## Hi, I'm Tasfia Noor Chowdhury
 
+<a href="https://github.com/NoorTasfia"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&vCenter=true&width=520&lines=Robot+Learning+from+Demonstration;Wearable+Sensors+%26+Biomedical+AI;Machine+Learning+%26+Deep+Learning;Seeking+a+funded+PhD+from+2027" alt="Robot Learning from Demonstration · Wearable Sensors & Biomedical AI · Machine Learning & Deep Learning · Seeking a funded PhD from 2027" /></a>
+
+[![IEEE RAAICON 2026](https://img.shields.io/badge/IEEE_RAAICON-2026_×2-00629B?logo=ieee&logoColor=white)](#research)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.18535-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2501.18535)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.08266-B31B1B?logo=arxiv&logoColor=white)](https://doi.org/10.48550/arXiv.2501.08266)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--2074--1118-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-2074-1118)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tasfia_Noor_Chowdhury-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasfia-noor-chowdhury/)
+
 I build **AI systems that learn from and help people**. My work spans three areas:
 
 - **Robot learning from demonstration:** teaching manipulation and navigation skills from a handful of human demonstrations
 - **Biomedical engineering:** wearable sensors, biosignal processing and assistive robotics
 - **Machine learning and deep learning:** medical image analysis, computer vision and healthcare data
 
-- I'm doing an **M.Sc. in Robotics & Mechatronics Engineering** at the University of Dhaka (2026–2027). My thesis is knee abnormality detection from MRI, in the MAIM Lab.
-- I hold a **B.Sc. in Mechatronics & Industrial Engineering** from CUET, with a senior-year GPA of 3.96/4.00.
-- I'm looking for a **fully funded PhD from 2027** in robot learning, human–robot interaction, wearable or biomedical AI, or medical robotics.
+<p align="center">
+  <img src="assets/gesture-teaching-demo.jpg" width="640" alt="A simulated dual Franka Panda robot in MuJoCo lifts a red box while a person controls it with hand gestures tracked by a webcam" />
+  <br />
+  <sub>Teaching a dual Franka Panda in MuJoCo with webcam hand gestures. One demonstration is expanded into 50 training episodes (IEEE RAAICON 2026).</sub>
+</p>
+
+### Currently
+
+- 🔬 **Researching:** deep learning for knee abnormality detection from MRI (M.Sc. thesis, MAIM Lab, University of Dhaka)
+- 🦾 **Building next:** a wearable IMU + EMG sleeve for gesture and fatigue recognition
+- 📚 **Learning:** Diffusion Policy, ACT and LeRobot for real-robot imitation learning
+- 🎓 **Seeking:** a fully funded PhD from 2027 in robot learning, human–robot interaction, wearable or biomedical AI, or medical robotics
+
+### Background
+
+- **M.Sc. in Robotics & Mechatronics Engineering**, University of Dhaka (2026–2027)
+- **B.Sc. in Mechatronics & Industrial Engineering**, CUET, senior-year GPA 3.96/4.00, Dean's Award ×5
 
 ### Research
 
@@ -21,6 +43,10 @@ I build **AI systems that learn from and help people**. My work spans three area
 | [**AI-Driven Water Segmentation for Flood Monitoring**](https://doi.org/10.48550/arXiv.2501.08266) | DeepLab v3 reaches 90.57% accuracy on a new augmented flood dataset. [Code](https://github.com/NoorTasfia/flood-segmentation) | arXiv, 2025 |
 
 ### Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,ros,c,matlab,arduino,aws,linux,git&perline=11" alt="Python, PyTorch, TensorFlow, scikit-learn, ROS, C, MATLAB, Arduino, AWS, Linux, Git" />
+</p>
 
 **Robotics:** ROS 2 (Jazzy, Nav2), MuJoCo, Webots, Gazebo, Franka Panda, TurtleBot3, UR3
 **ML:** Python, PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, Apache Spark, AWS
