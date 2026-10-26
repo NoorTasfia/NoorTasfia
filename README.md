@@ -1,10 +1,14 @@
 ## Hi, I'm Tasfia Noor Chowdhury
 
-I'm a robotics researcher who works on **robots that learn from people**: teaching manipulation and navigation skills from a handful of human demonstrations. I also work on medical image analysis.
+I build **AI systems that learn from and help people**. My work spans three areas:
+
+- **Robot learning from demonstration:** teaching manipulation and navigation skills from a handful of human demonstrations
+- **Biomedical engineering:** wearable sensors, biosignal processing and assistive robotics
+- **Machine learning and deep learning:** medical image analysis, computer vision and healthcare data
 
 - I'm doing an **M.Sc. in Robotics & Mechatronics Engineering** at the University of Dhaka (2026–2027). My thesis is knee abnormality detection from MRI, in the MAIM Lab.
 - I hold a **B.Sc. in Mechatronics & Industrial Engineering** from CUET, with a senior-year GPA of 3.96/4.00.
-- I'm looking for a **fully funded PhD from 2027** in robot learning, learning from demonstration, human–robot interaction or medical robotics.
+- I'm looking for a **fully funded PhD from 2027** in robot learning, human–robot interaction, wearable or biomedical AI, or medical robotics.
 
 ### Research
 
