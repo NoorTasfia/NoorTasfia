@@ -29,3 +29,11 @@ I build **AI systems that learn from and help people**. My work spans three area
 ### Contact
 
 [tasfiaa.chowdhury@gmail.com](mailto:tasfiaa.chowdhury@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tasfia-noor-chowdhury/) · [ORCID](https://orcid.org/0009-0005-2074-1118) · [ResearchGate](https://www.researchgate.net/profile/Tasfia-Chowdhury) · [Website](https://sites.google.com/view/tasfia-noor/home)
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoorTasfia/NoorTasfia/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoorTasfia/NoorTasfia/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/NoorTasfia/NoorTasfia/output/github-snake.svg" />
+</picture>
